@@ -5,7 +5,7 @@ A high-throughput, HPC-optimized bioinformatics pipeline for viromics, pathogen 
 Developed and maintained by the **Viromics @ WIMR** group (Westmead Institute for Medical Research). For more details on our research and other resources, visit [viromics.group](https://viromics.group).
 
 ## Overview
-Pathogen-Disco is designed to efficiently process complex metagenomic samples (e.g., cloacal swabs, tissue samples, environmental samples) to identify and characterize viral and microbial pathogens. It handles everything from raw read QC to assembly, robust ORF-based annotation, and final taxonomic consensus, purposefully engineered for high-performance computing (HPC) clusters like NCI Gadi running PBS Pro.
+Pathogen-Disco is designed to efficiently process complex metagenomic samples (e.g., clinical swabs, tissue samples, environmental samples) to identify and characterize viral and microbial pathogens. It handles everything from raw read QC to assembly, robust ORF-based annotation, and final taxonomic consensus, purposefully engineered for high-performance computing (HPC) clusters like NCI Gadi running PBS Pro.
 
 ### Key Features
 * **HPC-Native Architecture:** Designed for PBS Pro with array/batch submission (`qsub`) and robust job scheduling.
