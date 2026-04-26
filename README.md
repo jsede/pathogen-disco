@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Project Logo" width="200">
+</p>
+
 # Pathogen-Disco (v1.3)
 
 A high-throughput, HPC-optimized bioinformatics pipeline for viromics, pathogen discovery, and complex metagenomic characterization from short-read sequencing data. 
